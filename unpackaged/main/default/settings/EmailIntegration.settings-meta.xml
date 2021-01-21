@@ -5,8 +5,7 @@
     <enableContactAndEventSync>false</enableContactAndEventSync>
     <enableEngageForOutlook>false</enableEngageForOutlook>
     <enableGmailIntegration>true</enableGmailIntegration>
-    <enableOutlookIntegration>false</enableOutlookIntegration>
+    <enableOutlookIntegration>true</enableOutlookIntegration>
     <isLayoutCustomizationAllowed>false</isLayoutCustomizationAllowed>
-    <orgIsSyncingEventsOutbound>false</orgIsSyncingEventsOutbound>
     <shouldUseTrustedDomainsList>true</shouldUseTrustedDomainsList>
 </EmailIntegrationSettings>

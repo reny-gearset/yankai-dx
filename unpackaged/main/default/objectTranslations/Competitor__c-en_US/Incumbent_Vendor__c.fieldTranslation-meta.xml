@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Tick this box if this vendor is currently in use within this account/prospect --></help>
+        <label><!-- Incumbent Vendor --></label>
+        <name>Incumbent_Vendor__c</name>
+    </CustomFieldTranslation>

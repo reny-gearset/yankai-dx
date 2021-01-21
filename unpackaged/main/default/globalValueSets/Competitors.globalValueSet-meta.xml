@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>AutoRABIT</fullName>
+        <default>false</default>
+        <label>AutoRABIT</label>
+    </customValue>
+    <customValue>
+        <fullName>Copado</fullName>
+        <default>false</default>
+        <label>Copado</label>
+    </customValue>
+    <customValue>
+        <fullName>ClickDeploy</fullName>
+        <default>false</default>
+        <label>ClickDeploy</label>
+    </customValue>
+    <customValue>
+        <fullName>Flossum</fullName>
+        <default>false</default>
+        <label>Flossum</label>
+    </customValue>
+    <customValue>
+        <fullName>Inhouse Custom</fullName>
+        <default>false</default>
+        <label>Inhouse Custom</label>
+    </customValue>
+    <masterLabel>Competitors</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -4,10 +4,8 @@
     <customizableProductSchedulesEnabled>false</customizableProductSchedulesEnabled>
     <doesEnforceStandardOpportunitySaveLogic>true</doesEnforceStandardOpportunitySaveLogic>
     <enableFindSimilarOpportunities>false</enableFindSimilarOpportunities>
-    <enableOpportunityFieldHistoryTracking>false</enableOpportunityFieldHistoryTracking>
+    <enableOpportunityFieldHistoryTracking>true</enableOpportunityFieldHistoryTracking>
     <enableOpportunityTeam>false</enableOpportunityTeam>
     <enableUpdateReminders>true</enableUpdateReminders>
-    <oppAmountDealMotionEnabled>false</oppAmountDealMotionEnabled>
-    <oppCloseDateDealMotionEnabled>false</oppCloseDateDealMotionEnabled>
-    <promptToAddProducts>false</promptToAddProducts>
+    <promptToAddProducts>true</promptToAddProducts>
 </OpportunitySettings>

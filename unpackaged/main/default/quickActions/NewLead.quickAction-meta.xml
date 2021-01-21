@@ -34,5 +34,6 @@
     </quickActionLayout>
     <standardLabel>New</standardLabel>
     <targetObject>Lead</targetObject>
+    <targetRecordType>Lead.Gearset_SDR_Lead_Process</targetRecordType>
     <type>Create</type>
 </QuickAction>

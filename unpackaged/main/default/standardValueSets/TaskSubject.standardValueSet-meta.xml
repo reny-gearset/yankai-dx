@@ -7,16 +7,6 @@
         <label>Call</label>
     </standardValue>
     <standardValue>
-        <fullName>Email</fullName>
-        <default>false</default>
-        <label>Email</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Send Letter</fullName>
-        <default>false</default>
-        <label>Send Letter</label>
-    </standardValue>
-    <standardValue>
         <fullName>Send Quote</fullName>
         <default>false</default>
         <label>Send Quote</label>
@@ -25,5 +15,10 @@
         <fullName>Other</fullName>
         <default>false</default>
         <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Email</fullName>
+        <default>false</default>
+        <label>Email</label>
     </standardValue>
 </StandardValueSet>
