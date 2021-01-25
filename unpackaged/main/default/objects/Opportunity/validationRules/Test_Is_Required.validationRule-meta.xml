@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Test_Is_Required</fullName>
+    <active>true</active>
+    <description>Test_Is_Required</description>
+    <errorConditionFormula>LEN( Test__c ) = 0</errorConditionFormula>
+    <errorDisplayField>Test__c</errorDisplayField>
+    <errorMessage>Test is a required field</errorMessage>
+</ValidationRule>
