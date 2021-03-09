@@ -20,7 +20,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Minimum_Spending__c</field>
+                <field>Minimum_Spending1__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

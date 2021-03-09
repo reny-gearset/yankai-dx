@@ -7,7 +7,7 @@
         <value xsi:type="xsd:double">15.0</value>
     </values>
     <values>
-        <field>Minimum_Spending__c</field>
+        <field>Minimum_Spending1__c</field>
         <value xsi:type="xsd:double">5000.0</value>
     </values>
 </CustomMetadata>
